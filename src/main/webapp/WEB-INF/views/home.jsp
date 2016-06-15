@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello From OpenShift</title>
+<title>Welcome to BubbleApps</title>
 </head>
 <body>
-<h3>Hello From OpenShift</h3>
+<h3>Welcome to BubbleApps</h3>
 </body>
 </html>
