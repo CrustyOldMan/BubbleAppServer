@@ -23,7 +23,6 @@ public class HomeController {
 
     @RequestMapping(method = RequestMethod.GET)
     public String sayHello(ModelMap model) {
-	System.out.println("sayHello");
 	model.addAttribute("greeting", "I can see you!");
 	return WEB_PAGE;
     }
