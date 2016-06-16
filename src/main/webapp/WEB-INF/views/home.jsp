@@ -8,5 +8,6 @@
 </head>
 <body>
 <h3>Welcome to BubbleApps</h3>
+<p>Greeting : ${greeting}</p>
 </body>
 </html>
